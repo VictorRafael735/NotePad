@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/Victor/Downloads/cutIcon.png</file>
+        <file>C:/Users/Victor/Downloads/pasteIcon.png</file>
+        <file>C:/Users/Victor/Downloads/copyIcon.png</file>
+        <file>C:/Users/Victor/Downloads/deleteFileIcon.png</file>
+        <file>C:/Users/Victor/Downloads/saveFileIcon.png</file>
+        <file>C:/Users/Victor/Downloads/openFileIcon.png</file>
+        <file>C:/Users/Victor/Downloads/newFileIcon.png</file>
+        <file>C:/Users/Victor/Downloads/undoIcon.png</file>
+        <file>C:/Users/Victor/Downloads/printIcon.png</file>
+    </qresource>
+</RCC>
